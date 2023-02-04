@@ -6,5 +6,6 @@ public class Main {
       Pillow softPillow = new Pillow();
       Mace bigMace = new Mace();
       Arrow sharpArrow = new Arrow();
+      Giantspider giantSpdier = new Arrow();
     }
 }
